@@ -51,12 +51,16 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsAndy06/ItsAndy06/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsAndy06/ItsAndy06/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/ItsAndy06/ItsAndy06/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsAndy0610/ItsAndy0610/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsAndy0610/ItsAndy0610/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/ItsAndy0610/ItsAndy0610/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
 <p align="center">
   <i>Always learning, always building. Let's connect and create something great together! 🚀</i>
 </p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/u2dI2h52gAzNSy/giphy.gif" width="300" alt="Wow" />
+</div>
